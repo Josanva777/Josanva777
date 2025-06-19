@@ -46,7 +46,7 @@
       <td width="50%" align="center">
         <img 
           align="center"
-          src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=7"
+          src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Josanva777&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=7"
           alt="Lenguajes más usados por Johan"
         />
       </td>
