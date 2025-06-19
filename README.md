@@ -33,14 +33,14 @@
       <td width="50%" align="center">
         <img 
           align="center" 
-          src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&theme=radical&show_icons=true&count_private=true" 
+          src="https://github-readme-stats.vercel.app/api?username=Josanva777&theme=radical&show_icons=true&count_private=true" 
           alt="Estadísticas de Johan" 
         />
         <br><br>
         <img 
           title="🔥 Racha de Contribuciones" 
           alt="Racha de Johan" 
-          src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=radical&hide_border=false" 
+          src="https://github-readme-streak-stats.herokuapp.com/?user=Josanva777&theme=radical&hide_border=false" 
         />
       </td>
       <td width="50%" align="center">
