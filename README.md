@@ -14,7 +14,7 @@
   <br><br>
    Me encuentro en constante aprendizaje para incorporar las últimas tendencias tecnológicas y entregar resultados de alta calidad.
   <br><br>
-  📫 Puedes contactarme en: **johansanchezvalencia@gmail.com**
+  📫 Puedes contactarme en: <b><a href="mailto:johansanchezvalencia@gmail.com">johansanchezvalencia@gmail.com</a></b>
 </p>
 <br>
 
