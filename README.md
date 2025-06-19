@@ -21,7 +21,7 @@
 <h2>Habilidades y Tecnologías 🚀</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,express,postgresql,git,vite,materialui,postman,docker&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,vite,nodejs,express,postgresql,mysql,git,github,docker,postman,npm,bash,vercel,figma,materialui&perline=8" />
   </a>
 </p>
 <br>
