@@ -1,10 +1,10 @@
 <!-- ====== HEADER ANIMADO ====== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:f85d7f&height=200&section=header&text=Johan%20Sánchez&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20de%20Software&descSize=18&descAlignY=58" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:f85d7f&height=200&section=header&text=Johan%20Sánchez&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Full%20Stack&descSize=18&descAlignY=58" alt="header" />
 
 <!-- ====== TYPING SVG ====== -->
 <p align="center">
   <a href="https://github.com/Josanva777">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Desarrollador+Front-End;Apasionado+por+React+%2B+Vite;Interfaces+modernas+y+escalables;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Del+front+al+back%2C+punta+a+punta;React+%2B+Node+%2B+Bases+de+datos;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 <!-- ====== SOBRE MÍ ====== -->
 ## Sobre Mí 👨‍💻
 <p align="left">
-  Soy un Desarrollador de Software enfocado en el Front-End, apasionado por crear interfaces modernas, intuitivas y escalables. Mi objetivo es optimizar la experiencia del usuario y mejorar los procesos de desarrollo a través de soluciones innovadoras y eficientes.
+  Soy un Desarrollador de Software Full Stack: construyo tanto interfaces modernas, intuitivas y escalables en el Front-End como la lógica de negocio, APIs y bases de datos en el Back-End. Mi objetivo es entregar productos completos, optimizando la experiencia del usuario y los procesos de desarrollo a través de soluciones innovadoras y eficientes.
   <br><br>
    Me encuentro en constante aprendizaje para incorporar las últimas tendencias tecnológicas y entregar resultados de alta calidad.
   <br><br>
@@ -35,7 +35,7 @@
 <h2>Habilidades y Tecnologías 🚀</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,vite,nodejs,express,postgresql,mysql,git,github,docker,postman,npm,bash,vercel,figma,materialui&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,javascript,typescript,react,redux,nextjs,vite,nodejs,express,python,java,mongodb,postgresql,mysql,supabase,prisma,docker,git,github,cloudflare,vercel,postman,figma,materialui&perline=8" />
   </a>
 </p>
 <br>
