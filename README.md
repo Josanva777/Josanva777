@@ -74,7 +74,8 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Josanva777&bg_color=1a1b27&color=f85d7f&line=f85d7f&point=ffffff&area=true&hide_border=true&custom_title=Actividad%20de%20Contribuciones" alt="Gráfico de actividad" />
 </p>
 
-<!-- ====== TROFEOS ====== -->
+<!-- ====== TROFEOS (server caído: HTTP 402 Payment Required en github-profile-trophy.vercel.app).
+     Si el servicio revive, borrá estas líneas de comentario para volver a mostrarlo. ======
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Mis Trofeos en GitHub">
     <img
@@ -84,6 +85,8 @@
     />
   </a>
 </div>
+-->
+
 
 <!-- ====== FOOTER ====== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:f85d7f&height=120&section=footer" alt="footer" />
