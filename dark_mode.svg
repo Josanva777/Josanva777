@@ -18,19 +18,19 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii" font-size="10.5px">
-<tspan x="15" y="51">                i-,i,,,,,,,,,,,,,,,,i---</tspan>
-<tspan x="15" y="63">              -iiii,,,,,,,,,,,,,,,,,,,iii</tspan>
-<tspan x="15" y="75">            ii,,,,,,,,iii,i,,ii,,,,,,,iiiii</tspan>
-<tspan x="15" y="87">           i-i,,,,,i-11i--11---11--iiiiiii,,</tspan>
-<tspan x="15" y="99">          i-iiiiii1jcj1cCmmCCcmmmmCj1ii,,i,i,</tspan>
-<tspan x="15" y="111">         iiiiiiijmkkkkMMMMkmmkMMMMMkkmji,,,ii,</tspan>
-<tspan x="15" y="123">        ,i,i,,1mMMMM@@@@@@@@@@@@MMMMMMkC-,,iii,</tspan>
-<tspan x="15" y="135">        ,ii,,1kMMMMkMMMM@@@@@MMkmCCCCmkkm1,,,ii</tspan>
-<tspan x="15" y="147">         ii,imCcjj1jcCmkMMMMMkCcjjjcCmmCCkc,,,,</tspan>
-<tspan x="15" y="159">         ii,1CmkkkkkmmmmkM@@kmmCmkMMkkkkkkk1  ,</tspan>
-<tspan x="15" y="171">         ,, ckkkmmCcCCmmkMMMkmmCcC1-1cjCkMkC,</tspan>
-<tspan x="15" y="183">           ,mkkcjj--CcmMkkMkkmkmmmmmmmmkkMkk1,i</tspan>
-<tspan x="15" y="195">           ,kMkkmmmmmkMMkkMkmkkkMMMMMMMMMMkkCCmC</tspan>
+<tspan x="15" y="51">                mmCccccjjjjjccjjjjccCCmm</tspan>
+<tspan x="15" y="63">              mCccccjjcccccjjjjjjjcccccCC</tspan>
+<tspan x="15" y="75">            mCcjccjjjcccccccccCcjjjjccCCccC</tspan>
+<tspan x="15" y="87">           mCccccccCmkkCmmkkmmmkkmmCCCccCccC</tspan>
+<tspan x="15" y="99">          mmCCCCCCkkcjkcCmmCCcmmmmCkkCccccccc</tspan>
+<tspan x="15" y="111">         CCCccCCkmkkkkMMMMkmmkMMMMMkkmkCcccccC</tspan>
+<tspan x="15" y="123">        CCcCcckmMMMM@@@@@@@@@@@@MMMMMMkCmccCCCc</tspan>
+<tspan x="15" y="135">        CcCjckkMMMMkMMMM@@@@@MMkmCCCCmkkmkccccc</tspan>
+<tspan x="15" y="147">         ccjCmCcjj1jcCmkMMMMMkCcjjjcCmmCCkccjjc</tspan>
+<tspan x="15" y="159">         ccckCmkkkkkmmmmkM@@kmmCmkMMkkkkkkkkjjjc</tspan>
+<tspan x="15" y="171">         cjjckkkmmCcCCmmkMMMkmmCcC1-1cjCkMkCcj</tspan>
+<tspan x="15" y="183">          jjmkkcjj--CcmMkkMkkmkmmmmmmmmkkMkkkjC</tspan>
+<tspan x="15" y="195">          jckMkkmmmmmkMMkkMkmkkkMMMMMMMMMMkkCCmC</tspan>
 <tspan x="15" y="207">          cckMMMMMM@@@MkkMMMkmkkM@@@@@@MMMMkmCmC</tspan>
 <tspan x="15" y="219">          1CkMMM@@@@@@MkkMMMkmmkMM@@@@MMMMkkmckm</tspan>
 <tspan x="15" y="231">           ckkMMM@@@@@Mm1jCCc-cmkM@@@@MMMkkkCjkc</tspan>
